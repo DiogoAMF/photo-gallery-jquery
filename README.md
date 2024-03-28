@@ -14,12 +14,6 @@
 <br>
 
 <p align="center">
-  <img alt="galeria de fotos" src="https://i.imgur.com/LBcRw3D.png">
-</p>
-
-<br>
-
-<p align="center">
   <img alt="galeria de fotos" src="https://i.imgur.com/opymcBh.png">
 </p>
 
