@@ -28,4 +28,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Uma plataforma digital que permite aos usuários armazenar, organizar e compartilhar suas fotografias pela internet.
+Projeto para praticar o uso do jQuery: uma mini plataforma que permite aos usuários armazenar, organizar e compartilhar suas fotografias pela internet.
